@@ -1,0 +1,15 @@
+target
+logs
+
+.settings
+.classpath
+.project
+.metadata
+
+.DS_Store
+
+# PROJECT SPECIFIC IGNORES
+
+# INTELLIJ IDEA IGNORES
+*.iml
+.idea/
